@@ -8,10 +8,11 @@ cdns:
   - url: https://fonts.googleapis.com
   # jsDelivr CDN
   - url: https://cdn.jsdelivr.net
-
+  - url: https://cdn.jsdelivr.net/gh/naver/nanum-square/font
 # fonts
 
-webfonts: https://fonts.googleapis.com/css2?family=Lato&family=Source+Sans+Pro:wght@400;600;700;900&display=swap
+webfonts: https://cdn.jsdelivr.net/gh/naver/nanum-square/font/NanumSquareR.woff2
+
 
 # Libraries
 

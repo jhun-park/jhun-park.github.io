@@ -155,7 +155,7 @@ h1 + .post-meta {
     &::before {
       color: var(--text-muted-color);
       font-size: 0.65rem;
-      text-transform: uppercase;
+      text-transform: none;
       content: attr(aria-label);
     }
 
