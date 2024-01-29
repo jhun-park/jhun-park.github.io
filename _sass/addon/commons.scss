@@ -23,7 +23,7 @@ html {
     }
   }
 
-  font-size: 16px;
+  font-size: 14px;
 }
 
 body {
@@ -737,8 +737,8 @@ $btn-mb: 0.5rem;
   }
 
   .site-title {
-    font-family: inherit;
-    font-weight: 900;
+    font-family: 'NanumSquare';
+    font-weight: 600;
     font-size: 1.75rem;
     line-height: 1.2;
     letter-spacing: 0.25px;
@@ -754,10 +754,10 @@ $btn-mb: 0.5rem;
   }
 
   .site-subtitle {
-    font-size: 95%;
-    color: var(--site-subtitle-color);
-    margin-top: 0.25rem;
-    word-spacing: 1px;
+    font-size: 100;
+    // color: var(--site-subtitle-color);
+    margin-top: 1.0rem;
+    // word-spacing: 1px;
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
@@ -779,7 +779,7 @@ $btn-mb: 0.5rem;
         display: flex;
         align-items: center;
         border-radius: 0.75rem;
-        font-weight: 600;
+        font-weight: 500;
 
         &:hover {
           background-color: var(--sidebar-hover-bg);
@@ -917,7 +917,7 @@ $btn-mb: 0.5rem;
     font-size: 1rem;
     color: var(--text-muted-color);
     padding-left: 0.5rem;
-
+    font-weight: 900;
     a:hover {
       @extend %link-hover;
     }

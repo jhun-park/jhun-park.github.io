@@ -53,14 +53,14 @@ notification:
 # ----- Posts related labels -----
 
 post:
-  written_by: By
+  written_by: Written by me
   posted: 'Uploaded:' 
   updated: Updated
   words: words
   pageview_measure: 조회
   read_time:
     unit: min 
-    prompt: readtime
+    prompt: readtime  
   relate_posts: related posts
   # share: Share
   button:
