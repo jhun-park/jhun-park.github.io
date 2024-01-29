@@ -14,7 +14,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Jeonghun # the main title
+title: jhun-park # the main title
 
 tagline: Deeplearning / CVPR Lab. # it will display as the sub-title
 
@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn: ""
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/img/favicons/vv.png"
+avatar: "/assets/img/favicons/a.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
