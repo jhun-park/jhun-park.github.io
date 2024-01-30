@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Emails: hoon1561@naver.com / wjdgns981211@gmail.com
+> Email: hoon1561@naver.com / wjdgns981211@gmail.com
 
 > Undergraduate Student of CVPR Lab. in Kumoh National Institute Technology 
 
