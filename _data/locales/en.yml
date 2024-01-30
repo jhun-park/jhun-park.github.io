@@ -52,7 +52,7 @@ notification:
 # ----- Posts related labels -----
 
 post:
-  written_by: by Me
+  written_by: by
   posted: Posted
   updated: Updated
   words: words
