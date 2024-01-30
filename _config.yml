@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: jhun-park # the main title
 
-tagline: <a href="https://www.kumoh.ac.kr/" target="_blank" class="underline_link">Kumoh univ.</a> / <a href="http://cvpr.kumoh.ac.kr/" target="_blank" class="underline_link">CVPR Lab.</a> <br>Undergrad. / DeepLearning  # it will display as the sub-title
+tagline: <a href="https://www.kumoh.ac.kr/" target="_blank" class="underline_link">Kumoh univ.</a> / <a href="http://cvpr.kumoh.ac.kr/" target="_blank" class="underline_link">CVPR Lab.</a> <br>Undergrad. / Deep learning  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
