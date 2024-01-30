@@ -5,5 +5,16 @@
 
 /* append your custom style below */
 body {
-    font-family: 'Nanum Square', sans-serif;
+      font-family: 'Nanum Square', sans-serif;
+      .fst-italic {
+        font-style: normal !important;
+        font-weight: 400;
+      }
+      .form-control {
+        font-size: 0.9rem;
+      }
+      .underline_link {
+        text-decoration: underline;
+      }
+      
   }
