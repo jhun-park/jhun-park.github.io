@@ -8,5 +8,5 @@ order: 4
 
 > Interests: Deep learning / Machine learning / Computer Vision / Reinforcement learning / Natural Language Processing / Robot Engineering / Autonomous Driving
 
-> Researching as an undergraduate researcher of CVPR Lab in Kumoh National Institute of Technology 
+> Undergraduate researcher of CVPR Lab in Kumoh National Institute of Technology 
     
