@@ -131,6 +131,8 @@ kramdown:
       line_numbers: true
       start_line: 1
 
+future: true
+
 collections:
   tabs:
     output: true
