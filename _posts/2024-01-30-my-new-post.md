@@ -1,0 +1,5 @@
+---
+layout: post
+title: My New Post
+date: 2024-01-30 22:20 +0900
+---
