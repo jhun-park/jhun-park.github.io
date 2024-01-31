@@ -17,6 +17,7 @@ package-lock.json
 # IDE configurations
 .idea
 .vscode
-_posts/#작성중
+_posts/#writing
+_posts/#trash
 # Misc
 # assets/js/dist
