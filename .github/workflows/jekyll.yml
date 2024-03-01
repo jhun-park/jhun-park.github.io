@@ -68,6 +68,6 @@ jobs:
 
 
               
-        uses: actions/jekyll-build-pages@v1.0.9
+        uses: actions/jekyll-build-pages@v1.0.12
 
 
